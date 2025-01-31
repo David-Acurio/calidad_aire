@@ -14,7 +14,7 @@ Este repositorio contiene el código y la documentación para un sistema de moni
 
 ## **Portada y Video**
 
-![Portada del Video](C:/Users/patyc/OneDrive/Escritorio/Sistema_calidad_aire/calidad aire-miniatura)
+
 
 Mira el video explicativo completo en YouTube: [Ver en YouTube]https://www.youtube.com/watch?v=c_tzG9tjMo8
 
