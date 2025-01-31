@@ -1,0 +1,2972 @@
+voltaje en la r 1k0.63
+resisten Rs6980.71
+voltaje en la r 1k0.64
+resisten Rs6813.68
+voltaje en la r 1k0.65
+resisten Rs6739.32
+voltaje en la r 1k0.65
+resisten Rs6638.93
+voltaje en la r 1k0.65
+resisten Rs6671.57
+voltaje en la r 1k0.66
+resisten Rs6537.47
+voltaje en la r 1k0.67
+resisten Rs6476.92
+voltaje en la r 1k0.66
+resisten Rs6546.06
+voltaje en la r 1k0.65
+resisten Rs6663.81
+voltaje en la r 1k0.64
+resisten Rs6810.62
+voltaje en la r 1k0.62
+resisten Rs7015.24
+voltaje en la r 1k0.63
+resisten Rs6999.97
+voltaje en la r 1k0.62
+resisten Rs7004.55
+voltaje en la r 1k0.62
+resisten Rs7030.95
+voltaje en la r 1k0.63
+resisten Rs6982.22
+voltaje en la r 1k0.63
+resisten Rs6994.48
+voltaje en la r 1k0.64
+resisten Rs6872.61
+voltaje en la r 1k0.64
+resisten Rs6855.04
+voltaje en la r 1k0.62
+resisten Rs7002.55
+voltaje en la r 1k0.62
+resisten Rs7058.45
+voltaje en la r 1k0.63
+resisten Rs6972.38
+voltaje en la r 1k0.63
+resisten Rs6991.27
+voltaje en la r 1k0.63
+resisten Rs6961.03
+voltaje en la r 1k0.63
+resisten Rs6986.13
+voltaje en la r 1k0.62
+resisten Rs7010.57
+voltaje en la r 1k0.65
+resisten Rs6741.40
+voltaje en la r 1k0.65
+resisten Rs6736.29
+voltaje en la r 1k0.66
+resisten Rs6631.89
+voltaje en la r 1k0.65
+resisten Rs6652.85
+voltaje en la r 1k0.64
+resisten Rs6760.43
+voltaje en la r 1k0.65
+resisten Rs6738.12
+voltaje en la r 1k0.65
+resisten Rs6736.04
+voltaje en la r 1k0.64
+resisten Rs6776.28
+voltaje en la r 1k0.63
+resisten Rs6949.33
+voltaje en la r 1k0.63
+resisten Rs6996.19
+voltaje en la r 1k0.62
+resisten Rs7073.36
+voltaje en la r 1k0.61
+resisten Rs7200.92
+voltaje en la r 1k0.61
+resisten Rs7260.91
+voltaje en la r 1k0.60
+resisten Rs7333.22
+voltaje en la r 1k0.59
+resisten Rs7418.83
+voltaje en la r 1k0.59
+resisten Rs7492.95
+voltaje en la r 1k0.59
+resisten Rs7544.19
+voltaje en la r 1k0.58
+resisten Rs7579.12
+voltaje en la r 1k0.58
+resisten Rs7629.65
+voltaje en la r 1k0.58
+resisten Rs7684.07
+voltaje en la r 1k0.57
+resisten Rs7728.45
+voltaje en la r 1k0.57
+resisten Rs7698.76
+voltaje en la r 1k0.58
+resisten Rs7572.56
+voltaje en la r 1k0.58
+resisten Rs7560.99
+voltaje en la r 1k0.58
+resisten Rs7568.37
+voltaje en la r 1k0.58
+resisten Rs7608.92
+voltaje en la r 1k0.58
+resisten Rs7652.87
+voltaje en la r 1k0.57
+resisten Rs7705.71
+voltaje en la r 1k0.57
+resisten Rs7740.13
+voltaje en la r 1k0.57
+resisten Rs7775.05
+voltaje en la r 1k0.57
+resisten Rs7793.28
+voltaje en la r 1k0.57
+resisten Rs7807.48
+voltaje en la r 1k0.57
+resisten Rs7821.96
+voltaje en la r 1k0.57
+resisten Rs7838.29
+voltaje en la r 1k0.56
+resisten Rs7863.95
+voltaje en la r 1k0.56
+resisten Rs7904.76
+voltaje en la r 1k0.56
+resisten Rs7935.88
+voltaje en la r 1k0.56
+resisten Rs7967.92
+voltaje en la r 1k0.56
+resisten Rs8003.58
+voltaje en la r 1k0.55
+resisten Rs8039.62
+voltaje en la r 1k0.55
+resisten Rs8062.21
+voltaje en la r 1k0.55
+resisten Rs8077.34
+voltaje en la r 1k0.55
+resisten Rs8095.66
+voltaje en la r 1k0.55
+resisten Rs8110.33
+voltaje en la r 1k0.55
+resisten Rs8125.84
+voltaje en la r 1k0.55
+resisten Rs8138.43
+voltaje en la r 1k0.55
+resisten Rs8147.52
+voltaje en la r 1k0.55
+resisten Rs8168.11
+voltaje en la r 1k0.54
+resisten Rs8181.06
+voltaje en la r 1k0.54
+resisten Rs8193.33
+voltaje en la r 1k0.54
+resisten Rs8218.87
+voltaje en la r 1k0.54
+resisten Rs8236.34
+voltaje en la r 1k0.54
+resisten Rs8246.04
+voltaje en la r 1k0.54
+resisten Rs8260.20
+voltaje en la r 1k0.54
+resisten Rs8264.02
+voltaje en la r 1k0.54
+resisten Rs8262.99
+voltaje en la r 1k0.54
+resisten Rs8261.37
+voltaje en la r 1k0.54
+resisten Rs8225.52
+voltaje en la r 1k0.55
+resisten Rs8166.85
+voltaje en la r 1k0.55
+resisten Rs8131.46
+voltaje en la r 1k0.55
+resisten Rs8117.03
+voltaje en la r 1k0.55
+resisten Rs8122.67
+voltaje en la r 1k0.55
+resisten Rs8154.29
+voltaje en la r 1k0.54
+resisten Rs8193.08
+voltaje en la r 1k0.54
+resisten Rs8226.75
+voltaje en la r 1k0.54
+resisten Rs8251.91
+voltaje en la r 1k0.57
+resisten Rs7764.25
+voltaje en la r 1k0.60
+resisten Rs7339.17
+voltaje en la r 1k0.62
+resisten Rs7099.01
+voltaje en la r 1k0.61
+resisten Rs7256.35
+voltaje en la r 1k0.58
+resisten Rs7579.63
+voltaje en la r 1k0.57
+resisten Rs7748.35
+voltaje en la r 1k0.57
+resisten Rs7826.19
+voltaje en la r 1k0.56
+resisten Rs7909.12
+voltaje en la r 1k0.56
+resisten Rs7986.39
+voltaje en la r 1k0.55
+resisten Rs8015.04
+voltaje en la r 1k0.56
+resisten Rs7867.04
+voltaje en la r 1k0.57
+resisten Rs7811.14
+voltaje en la r 1k0.57
+resisten Rs7829.80
+voltaje en la r 1k0.57
+resisten Rs7828.09
+voltaje en la r 1k0.56
+resisten Rs7871.32
+voltaje en la r 1k0.56
+resisten Rs7911.80
+voltaje en la r 1k0.57
+resisten Rs7848.28
+voltaje en la r 1k0.57
+resisten Rs7821.96
+voltaje en la r 1k0.56
+resisten Rs7855.11
+voltaje en la r 1k0.57
+resisten Rs7804.43
+voltaje en la r 1k0.57
+resisten Rs7764.42
+voltaje en la r 1k0.57
+resisten Rs7711.38
+voltaje en la r 1k0.58
+resisten Rs7660.94
+voltaje en la r 1k0.57
+resisten Rs7725.25
+voltaje en la r 1k0.58
+resisten Rs7691.63
+voltaje en la r 1k0.58
+resisten Rs7650.65
+voltaje en la r 1k0.58
+resisten Rs7671.19
+voltaje en la r 1k0.58
+resisten Rs7603.37
+voltaje en la r 1k0.58
+resisten Rs7649.05
+voltaje en la r 1k0.58
+resisten Rs7617.22
+voltaje en la r 1k0.58
+resisten Rs7592.07
+voltaje en la r 1k0.57
+resisten Rs7731.54
+voltaje en la r 1k0.57
+resisten Rs7752.20
+voltaje en la r 1k0.57
+resisten Rs7774.58
+voltaje en la r 1k0.57
+resisten Rs7803.11
+voltaje en la r 1k0.57
+resisten Rs7805.78
+voltaje en la r 1k0.57
+resisten Rs7804.66
+voltaje en la r 1k0.57
+resisten Rs7805.40
+voltaje en la r 1k0.57
+resisten Rs7809.44
+voltaje en la r 1k0.57
+resisten Rs7830.85
+voltaje en la r 1k0.56
+resisten Rs7906.33
+voltaje en la r 1k0.56
+resisten Rs7970.58
+voltaje en la r 1k0.55
+resisten Rs8035.49
+voltaje en la r 1k0.55
+resisten Rs8036.65
+voltaje en la r 1k0.55
+resisten Rs8025.65
+voltaje en la r 1k0.56
+resisten Rs7912.26
+voltaje en la r 1k0.56
+resisten Rs7882.56
+voltaje en la r 1k0.57
+resisten Rs7844.99
+voltaje en la r 1k0.56
+resisten Rs7886.07
+voltaje en la r 1k0.56
+resisten Rs7930.85
+voltaje en la r 1k0.56
+resisten Rs7924.70
+voltaje en la r 1k0.57
+resisten Rs7821.72
+voltaje en la r 1k0.57
+resisten Rs7806.25
+voltaje en la r 1k0.57
+resisten Rs7799.95
+voltaje en la r 1k0.57
+resisten Rs7806.57
+voltaje en la r 1k0.57
+resisten Rs7813.13
+voltaje en la r 1k0.57
+resisten Rs7843.40
+voltaje en la r 1k0.56
+resisten Rs7928.22
+voltaje en la r 1k0.55
+resisten Rs8010.54
+voltaje en la r 1k0.55
+resisten Rs8076.58
+voltaje en la r 1k0.55
+resisten Rs8115.08
+voltaje en la r 1k0.55
+resisten Rs8141.02
+voltaje en la r 1k0.55
+resisten Rs8167.29
+voltaje en la r 1k0.54
+resisten Rs8208.59
+voltaje en la r 1k0.54
+resisten Rs8253.17
+voltaje en la r 1k0.55
+resisten Rs8134.60
+voltaje en la r 1k0.55
+resisten Rs8128.49
+voltaje en la r 1k0.55
+resisten Rs8066.25
+voltaje en la r 1k0.55
+resisten Rs8078.19
+voltaje en la r 1k0.55
+resisten Rs8103.97
+voltaje en la r 1k0.55
+resisten Rs8144.76
+voltaje en la r 1k0.54
+resisten Rs8202.54
+voltaje en la r 1k0.54
+resisten Rs8267.94
+voltaje en la r 1k0.54
+resisten Rs8336.08
+voltaje en la r 1k0.53
+resisten Rs8392.77
+voltaje en la r 1k0.53
+resisten Rs8439.12
+voltaje en la r 1k0.53
+resisten Rs8461.37
+voltaje en la r 1k0.53
+resisten Rs8477.05
+voltaje en la r 1k0.53
+resisten Rs8497.14
+voltaje en la r 1k0.52
+resisten Rs8524.47
+voltaje en la r 1k0.52
+resisten Rs8557.18
+voltaje en la r 1k0.52
+resisten Rs8579.23
+voltaje en la r 1k0.52
+resisten Rs8610.33
+voltaje en la r 1k0.52
+resisten Rs8637.84
+voltaje en la r 1k0.52
+resisten Rs8648.38
+voltaje en la r 1k0.52
+resisten Rs8671.26
+voltaje en la r 1k0.52
+resisten Rs8691.13
+voltaje en la r 1k0.51
+resisten Rs8714.20
+voltaje en la r 1k0.51
+resisten Rs8739.43
+voltaje en la r 1k0.51
+resisten Rs8772.96
+voltaje en la r 1k0.51
+resisten Rs8785.27
+voltaje en la r 1k0.51
+resisten Rs8808.17
+voltaje en la r 1k0.51
+resisten Rs8827.05
+voltaje en la r 1k0.51
+resisten Rs8836.92
+voltaje en la r 1k0.51
+resisten Rs8858.19
+voltaje en la r 1k0.51
+resisten Rs8880.25
+voltaje en la r 1k0.51
+resisten Rs8885.07
+voltaje en la r 1k0.50
+resisten Rs8903.67
+voltaje en la r 1k0.50
+resisten Rs8921.24
+voltaje en la r 1k0.50
+resisten Rs8944.28
+voltaje en la r 1k0.50
+resisten Rs8962.40
+voltaje en la r 1k0.50
+resisten Rs8992.85
+voltaje en la r 1k0.50
+resisten Rs9003.74
+voltaje en la r 1k0.50
+resisten Rs9027.97
+voltaje en la r 1k0.50
+resisten Rs9043.94
+voltaje en la r 1k0.50
+resisten Rs9063.12
+voltaje en la r 1k0.50
+resisten Rs9085.83
+voltaje en la r 1k0.50
+resisten Rs9099.59
+voltaje en la r 1k0.49
+resisten Rs9123.19
+voltaje en la r 1k0.49
+resisten Rs9140.42
+voltaje en la r 1k0.49
+resisten Rs9152.79
+voltaje en la r 1k0.49
+resisten Rs9171.78
+voltaje en la r 1k0.49
+resisten Rs9189.05
+voltaje en la r 1k0.49
+resisten Rs9194.73
+voltaje en la r 1k0.49
+resisten Rs9202.79
+voltaje en la r 1k0.49
+resisten Rs9209.65
+voltaje en la r 1k0.49
+resisten Rs9217.68
+voltaje en la r 1k0.49
+resisten Rs9217.25
+voltaje en la r 1k0.49
+resisten Rs9223.70
+voltaje en la r 1k0.49
+resisten Rs9229.22
+voltaje en la r 1k0.49
+resisten Rs9234.08
+voltaje en la r 1k0.49
+resisten Rs9240.25
+voltaje en la r 1k0.49
+resisten Rs9243.58
+voltaje en la r 1k0.49
+resisten Rs9248.30
+voltaje en la r 1k0.49
+resisten Rs9253.30
+voltaje en la r 1k0.49
+resisten Rs9252.40
+voltaje en la r 1k0.49
+resisten Rs9261.71
+voltaje en la r 1k0.49
+resisten Rs9267.83
+voltaje en la r 1k0.49
+resisten Rs9235.54
+voltaje en la r 1k0.49
+resisten Rs9265.87
+voltaje en la r 1k0.52
+resisten Rs8654.73
+voltaje en la r 1k0.54
+resisten Rs8341.21
+voltaje en la r 1k0.55
+resisten Rs8092.16
+voltaje en la r 1k0.56
+resisten Rs7984.59
+voltaje en la r 1k0.56
+resisten Rs7917.84
+voltaje en la r 1k0.57
+resisten Rs7827.71
+voltaje en la r 1k0.57
+resisten Rs7738.94
+voltaje en la r 1k0.58
+resisten Rs7628.67
+voltaje en la r 1k0.59
+resisten Rs7534.54
+voltaje en la r 1k0.59
+resisten Rs7460.15
+voltaje en la r 1k0.59
+resisten Rs7441.93
+voltaje en la r 1k0.58
+resisten Rs7677.76
+voltaje en la r 1k0.57
+resisten Rs7803.68
+voltaje en la r 1k0.56
+resisten Rs7902.55
+voltaje en la r 1k0.56
+resisten Rs8000.43
+voltaje en la r 1k0.56
+resisten Rs7913.35
+voltaje en la r 1k0.56
+resisten Rs7900.12
+voltaje en la r 1k0.56
+resisten Rs7972.36
+voltaje en la r 1k0.55
+resisten Rs8104.25
+voltaje en la r 1k0.55
+resisten Rs8159.47
+voltaje en la r 1k0.54
+resisten Rs8247.27
+voltaje en la r 1k0.54
+resisten Rs8293.90
+voltaje en la r 1k0.54
+resisten Rs8333.39
+voltaje en la r 1k0.53
+resisten Rs8424.23
+voltaje en la r 1k0.53
+resisten Rs8462.55
+voltaje en la r 1k0.53
+resisten Rs8477.33
+voltaje en la r 1k0.53
+resisten Rs8513.89
+voltaje en la r 1k0.52
+resisten Rs8563.88
+voltaje en la r 1k0.53
+resisten Rs8506.01
+voltaje en la r 1k0.52
+resisten Rs8555.06
+voltaje en la r 1k0.52
+resisten Rs8552.88
+voltaje en la r 1k0.52
+resisten Rs8559.01
+voltaje en la r 1k0.52
+resisten Rs8602.01
+voltaje en la r 1k0.52
+resisten Rs8648.45
+voltaje en la r 1k0.51
+resisten Rs8714.80
+voltaje en la r 1k0.52
+resisten Rs8657.94
+voltaje en la r 1k0.52
+resisten Rs8594.56
+voltaje en la r 1k0.52
+resisten Rs8527.33
+voltaje en la r 1k0.53
+resisten Rs8520.73
+voltaje en la r 1k0.52
+resisten Rs8634.21
+voltaje en la r 1k0.52
+resisten Rs8652.04
+voltaje en la r 1k0.52
+resisten Rs8670.58
+voltaje en la r 1k0.51
+resisten Rs8753.84
+voltaje en la r 1k0.51
+resisten Rs8722.69
+voltaje en la r 1k0.52
+resisten Rs8590.58
+voltaje en la r 1k0.52
+resisten Rs8552.90
+voltaje en la r 1k0.52
+resisten Rs8571.24
+voltaje en la r 1k0.52
+resisten Rs8640.25
+voltaje en la r 1k0.52
+resisten Rs8653.54
+voltaje en la r 1k0.52
+resisten Rs8686.66
+voltaje en la r 1k0.52
+resisten Rs8660.22
+voltaje en la r 1k0.52
+resisten Rs8619.95
+voltaje en la r 1k0.52
+resisten Rs8708.39
+voltaje en la r 1k0.52
+resisten Rs8583.96
+voltaje en la r 1k0.52
+resisten Rs8573.02
+voltaje en la r 1k0.52
+resisten Rs8697.08
+voltaje en la r 1k0.51
+resisten Rs8775.90
+voltaje en la r 1k0.51
+resisten Rs8809.98
+voltaje en la r 1k0.51
+resisten Rs8765.17
+voltaje en la r 1k0.51
+resisten Rs8775.87
+voltaje en la r 1k0.51
+resisten Rs8772.35
+voltaje en la r 1k0.51
+resisten Rs8814.90
+voltaje en la r 1k0.51
+resisten Rs8829.37
+voltaje en la r 1k0.51
+resisten Rs8787.77
+voltaje en la r 1k0.51
+resisten Rs8846.77
+voltaje en la r 1k0.51
+resisten Rs8843.36
+voltaje en la r 1k0.51
+resisten Rs8891.92
+voltaje en la r 1k0.50
+resisten Rs8947.37
+voltaje en la r 1k0.50
+resisten Rs9003.52
+voltaje en la r 1k0.50
+resisten Rs8990.38
+voltaje en la r 1k0.50
+resisten Rs9008.92
+voltaje en la r 1k0.51
+resisten Rs8816.52
+voltaje en la r 1k0.52
+resisten Rs8645.65
+voltaje en la r 1k0.52
+resisten Rs8565.24
+voltaje en la r 1k0.53
+resisten Rs8488.23
+voltaje en la r 1k0.52
+resisten Rs8537.03
+voltaje en la r 1k0.53
+resisten Rs8470.32
+voltaje en la r 1k0.53
+resisten Rs8468.17
+voltaje en la r 1k0.53
+resisten Rs8504.95
+voltaje en la r 1k0.52
+resisten Rs8549.45
+voltaje en la r 1k0.52
+resisten Rs8684.60
+voltaje en la r 1k0.52
+resisten Rs8680.59
+voltaje en la r 1k0.52
+resisten Rs8702.80
+voltaje en la r 1k0.52
+resisten Rs8614.71
+voltaje en la r 1k0.53
+resisten Rs8505.68
+voltaje en la r 1k0.53
+resisten Rs8490.03
+voltaje en la r 1k0.53
+resisten Rs8456.32
+voltaje en la r 1k0.53
+resisten Rs8506.91
+voltaje en la r 1k0.52
+resisten Rs8604.13
+voltaje en la r 1k0.52
+resisten Rs8557.14
+voltaje en la r 1k0.52
+resisten Rs8628.84
+voltaje en la r 1k0.52
+resisten Rs8689.05
+voltaje en la r 1k0.53
+resisten Rs8493.22
+voltaje en la r 1k0.53
+resisten Rs8502.70
+voltaje en la r 1k0.53
+resisten Rs8482.05
+voltaje en la r 1k0.52
+resisten Rs8525.52
+voltaje en la r 1k0.52
+resisten Rs8635.00
+voltaje en la r 1k0.51
+resisten Rs8734.41
+voltaje en la r 1k0.51
+resisten Rs8801.57
+voltaje en la r 1k0.52
+resisten Rs8611.73
+voltaje en la r 1k0.52
+resisten Rs8678.10
+voltaje en la r 1k0.51
+resisten Rs8769.02
+voltaje en la r 1k0.51
+resisten Rs8827.31
+voltaje en la r 1k0.51
+resisten Rs8880.54
+voltaje en la r 1k0.51
+resisten Rs8803.41
+voltaje en la r 1k0.51
+resisten Rs8753.49
+voltaje en la r 1k0.51
+resisten Rs8813.91
+voltaje en la r 1k0.52
+resisten Rs8610.80
+voltaje en la r 1k0.53
+resisten Rs8499.06
+voltaje en la r 1k0.53
+resisten Rs8489.37
+voltaje en la r 1k0.53
+resisten Rs8426.10
+voltaje en la r 1k0.53
+resisten Rs8357.71
+voltaje en la r 1k0.53
+resisten Rs8359.47
+voltaje en la r 1k0.55
+resisten Rs8159.74
+voltaje en la r 1k0.55
+resisten Rs8152.16
+voltaje en la r 1k0.54
+resisten Rs8183.90
+voltaje en la r 1k0.54
+resisten Rs8219.77
+voltaje en la r 1k0.53
+resisten Rs8350.00
+voltaje en la r 1k0.53
+resisten Rs8437.36
+voltaje en la r 1k0.54
+resisten Rs8344.79
+voltaje en la r 1k0.54
+resisten Rs8244.27
+voltaje en la r 1k0.55
+resisten Rs8166.57
+voltaje en la r 1k0.54
+resisten Rs8215.84
+voltaje en la r 1k0.54
+resisten Rs8286.18
+voltaje en la r 1k0.53
+resisten Rs8367.22
+voltaje en la r 1k0.53
+resisten Rs8451.45
+voltaje en la r 1k0.53
+resisten Rs8431.31
+voltaje en la r 1k0.53
+resisten Rs8348.01
+voltaje en la r 1k0.53
+resisten Rs8425.36
+voltaje en la r 1k0.53
+resisten Rs8451.45
+voltaje en la r 1k0.55
+resisten Rs8151.10
+voltaje en la r 1k0.56
+resisten Rs7984.45
+voltaje en la r 1k0.56
+resisten Rs7984.67
+voltaje en la r 1k0.56
+resisten Rs7909.18
+voltaje en la r 1k0.57
+resisten Rs7818.94
+voltaje en la r 1k0.57
+resisten Rs7824.97
+voltaje en la r 1k0.57
+resisten Rs7747.47
+voltaje en la r 1k0.57
+resisten Rs7705.93
+voltaje en la r 1k0.57
+resisten Rs7714.14
+voltaje en la r 1k0.58
+resisten Rs7608.54
+voltaje en la r 1k0.58
+resisten Rs7560.81
+voltaje en la r 1k0.59
+resisten Rs7487.47
+voltaje en la r 1k0.59
+resisten Rs7454.19
+voltaje en la r 1k0.59
+resisten Rs7511.54
+voltaje en la r 1k0.59
+resisten Rs7413.81
+voltaje en la r 1k0.59
+resisten Rs7483.83
+voltaje en la r 1k0.59
+resisten Rs7467.55
+voltaje en la r 1k0.59
+resisten Rs7444.68
+voltaje en la r 1k0.59
+resisten Rs7460.88
+voltaje en la r 1k0.59
+resisten Rs7412.88
+voltaje en la r 1k0.60
+resisten Rs7324.88
+voltaje en la r 1k0.59
+resisten Rs7417.34
+voltaje en la r 1k0.59
+resisten Rs7430.17
+voltaje en la r 1k0.60
+resisten Rs7398.98
+voltaje en la r 1k0.59
+resisten Rs7412.46
+voltaje en la r 1k0.59
+resisten Rs7534.84
+voltaje en la r 1k0.59
+resisten Rs7470.95
+voltaje en la r 1k0.59
+resisten Rs7462.23
+voltaje en la r 1k0.59
+resisten Rs7421.53
+voltaje en la r 1k0.60
+resisten Rs7386.08
+voltaje en la r 1k0.59
+resisten Rs7438.63
+voltaje en la r 1k0.59
+resisten Rs7433.50
+voltaje en la r 1k0.59
+resisten Rs7418.93
+voltaje en la r 1k0.59
+resisten Rs7435.06
+voltaje en la r 1k0.60
+resisten Rs7296.33
+voltaje en la r 1k0.60
+resisten Rs7390.60
+voltaje en la r 1k0.59
+resisten Rs7491.70
+voltaje en la r 1k0.59
+resisten Rs7490.96
+voltaje en la r 1k0.59
+resisten Rs7445.14
+voltaje en la r 1k0.59
+resisten Rs7524.35
+voltaje en la r 1k0.59
+resisten Rs7523.89
+voltaje en la r 1k0.58
+resisten Rs7583.15
+voltaje en la r 1k0.58
+resisten Rs7672.57
+voltaje en la r 1k0.57
+resisten Rs7732.80
+voltaje en la r 1k0.57
+resisten Rs7821.98
+voltaje en la r 1k0.56
+resisten Rs7908.52
+voltaje en la r 1k0.56
+resisten Rs7923.40
+voltaje en la r 1k0.56
+resisten Rs7950.55
+voltaje en la r 1k0.57
+resisten Rs7735.15
+voltaje en la r 1k0.59
+resisten Rs7526.63
+voltaje en la r 1k0.59
+resisten Rs7452.39
+voltaje en la r 1k0.60
+resisten Rs7300.89
+voltaje en la r 1k0.60
+resisten Rs7353.55
+voltaje en la r 1k0.57
+resisten Rs7714.03
+voltaje en la r 1k0.57
+resisten Rs7715.44
+voltaje en la r 1k0.57
+resisten Rs7722.05
+voltaje en la r 1k0.57
+resisten Rs7728.93
+voltaje en la r 1k0.58
+resisten Rs7631.34
+voltaje en la r 1k0.58
+resisten Rs7672.48
+voltaje en la r 1k0.58
+resisten Rs7688.64
+voltaje en la r 1k0.58
+resisten Rs7677.52
+voltaje en la r 1k0.57
+resisten Rs7802.10
+voltaje en la r 1k0.57
+resisten Rs7782.15
+voltaje en la r 1k0.58
+resisten Rs7678.33
+voltaje en la r 1k0.57
+resisten Rs7741.25
+voltaje en la r 1k0.58
+resisten Rs7648.44
+voltaje en la r 1k0.57
+resisten Rs7706.17
+voltaje en la r 1k0.57
+resisten Rs7774.28
+voltaje en la r 1k0.57
+resisten Rs7747.55
+voltaje en la r 1k0.57
+resisten Rs7775.11
+voltaje en la r 1k0.57
+resisten Rs7812.26
+voltaje en la r 1k0.56
+resisten Rs7866.56
+voltaje en la r 1k0.56
+resisten Rs7962.19
+voltaje en la r 1k0.55
+resisten Rs8052.31
+voltaje en la r 1k0.55
+resisten Rs8121.45
+voltaje en la r 1k0.55
+resisten Rs8168.72
+voltaje en la r 1k0.54
+resisten Rs8253.80
+voltaje en la r 1k0.54
+resisten Rs8313.54
+voltaje en la r 1k0.53
+resisten Rs8375.80
+voltaje en la r 1k0.53
+resisten Rs8423.19
+voltaje en la r 1k0.53
+resisten Rs8458.22
+voltaje en la r 1k0.53
+resisten Rs8473.47
+voltaje en la r 1k0.53
+resisten Rs8496.61
+voltaje en la r 1k0.52
+resisten Rs8526.51
+voltaje en la r 1k0.52
+resisten Rs8574.19
+voltaje en la r 1k0.52
+resisten Rs8614.01
+voltaje en la r 1k0.52
+resisten Rs8653.04
+voltaje en la r 1k0.52
+resisten Rs8688.27
+voltaje en la r 1k0.51
+resisten Rs8721.37
+voltaje en la r 1k0.51
+resisten Rs8749.45
+voltaje en la r 1k0.51
+resisten Rs8779.05
+voltaje en la r 1k0.51
+resisten Rs8808.97
+voltaje en la r 1k0.51
+resisten Rs8843.29
+voltaje en la r 1k0.51
+resisten Rs8868.60
+voltaje en la r 1k0.51
+resisten Rs8900.22
+voltaje en la r 1k0.50
+resisten Rs8927.59
+voltaje en la r 1k0.50
+resisten Rs8962.36
+voltaje en la r 1k0.50
+resisten Rs8991.39
+voltaje en la r 1k0.50
+resisten Rs9028.14
+voltaje en la r 1k0.50
+resisten Rs9059.93
+voltaje en la r 1k0.50
+resisten Rs9079.28
+voltaje en la r 1k0.49
+resisten Rs9101.93
+voltaje en la r 1k0.49
+resisten Rs9123.69
+voltaje en la r 1k0.49
+resisten Rs9154.55
+voltaje en la r 1k0.49
+resisten Rs9177.37
+voltaje en la r 1k0.49
+resisten Rs9191.81
+voltaje en la r 1k0.49
+resisten Rs9198.82
+voltaje en la r 1k0.49
+resisten Rs9209.65
+voltaje en la r 1k0.49
+resisten Rs9217.22
+voltaje en la r 1k0.50
+resisten Rs9009.51
+voltaje en la r 1k0.51
+resisten Rs8864.16
+voltaje en la r 1k0.50
+resisten Rs8908.97
+voltaje en la r 1k0.50
+resisten Rs8928.60
+voltaje en la r 1k0.50
+resisten Rs8952.35
+voltaje en la r 1k0.50
+resisten Rs8970.60
+voltaje en la r 1k0.50
+resisten Rs8988.58
+voltaje en la r 1k0.50
+resisten Rs8989.34
+voltaje en la r 1k0.50
+resisten Rs9038.00
+voltaje en la r 1k0.50
+resisten Rs9071.27
+voltaje en la r 1k0.49
+resisten Rs9108.34
+voltaje en la r 1k0.49
+resisten Rs9146.07
+voltaje en la r 1k0.49
+resisten Rs9175.60
+voltaje en la r 1k0.50
+resisten Rs8946.48
+voltaje en la r 1k0.51
+resisten Rs8813.30
+voltaje en la r 1k0.51
+resisten Rs8723.43
+voltaje en la r 1k0.52
+resisten Rs8694.69
+voltaje en la r 1k0.51
+resisten Rs8714.13
+voltaje en la r 1k0.51
+resisten Rs8780.06
+voltaje en la r 1k0.51
+resisten Rs8808.62
+voltaje en la r 1k0.51
+resisten Rs8830.15
+voltaje en la r 1k0.51
+resisten Rs8789.53
+voltaje en la r 1k0.51
+resisten Rs8739.29
+voltaje en la r 1k0.51
+resisten Rs8779.05
+voltaje en la r 1k0.51
+resisten Rs8747.36
+voltaje en la r 1k0.51
+resisten Rs8799.60
+voltaje en la r 1k0.51
+resisten Rs8852.60
+voltaje en la r 1k0.50
+resisten Rs8936.77
+voltaje en la r 1k0.50
+resisten Rs8986.88
+voltaje en la r 1k0.50
+resisten Rs8925.74
+voltaje en la r 1k0.51
+resisten Rs8785.25
+voltaje en la r 1k0.51
+resisten Rs8713.94
+voltaje en la r 1k0.52
+resisten Rs8595.13
+voltaje en la r 1k0.53
+resisten Rs8495.47
+voltaje en la r 1k0.53
+resisten Rs8488.69
+voltaje en la r 1k0.53
+resisten Rs8469.55
+voltaje en la r 1k0.53
+resisten Rs8467.49
+voltaje en la r 1k0.53
+resisten Rs8468.24
+voltaje en la r 1k0.53
+resisten Rs8446.09
+voltaje en la r 1k0.53
+resisten Rs8454.09
+voltaje en la r 1k0.53
+resisten Rs8480.41
+voltaje en la r 1k0.53
+resisten Rs8484.32
+voltaje en la r 1k0.53
+resisten Rs8502.79
+voltaje en la r 1k0.52
+resisten Rs8557.23
+voltaje en la r 1k0.53
+resisten Rs8498.05
+voltaje en la r 1k0.53
+resisten Rs8505.72
+voltaje en la r 1k0.53
+resisten Rs8519.67
+voltaje en la r 1k0.52
+resisten Rs8552.77
+voltaje en la r 1k0.52
+resisten Rs8642.52
+voltaje en la r 1k0.51
+resisten Rs8722.80
+voltaje en la r 1k0.51
+resisten Rs8782.37
+voltaje en la r 1k0.52
+resisten Rs8681.90
+voltaje en la r 1k0.52
+resisten Rs8603.50
+voltaje en la r 1k0.53
+resisten Rs8501.79
+voltaje en la r 1k0.52
+resisten Rs8542.70
+voltaje en la r 1k0.52
+resisten Rs8617.69
+voltaje en la r 1k0.52
+resisten Rs8670.44
+voltaje en la r 1k0.51
+resisten Rs8725.83
+voltaje en la r 1k0.51
+resisten Rs8716.80
+voltaje en la r 1k0.52
+resisten Rs8693.43
+voltaje en la r 1k0.52
+resisten Rs8667.56
+voltaje en la r 1k0.52
+resisten Rs8673.41
+voltaje en la r 1k0.51
+resisten Rs8741.75
+voltaje en la r 1k0.51
+resisten Rs8812.69
+voltaje en la r 1k0.51
+resisten Rs8867.68
+voltaje en la r 1k0.50
+resisten Rs8939.50
+voltaje en la r 1k0.50
+resisten Rs9008.26
+voltaje en la r 1k0.50
+resisten Rs9061.96
+voltaje en la r 1k0.49
+resisten Rs9107.02
+voltaje en la r 1k0.49
+resisten Rs9143.23
+voltaje en la r 1k0.49
+resisten Rs9155.28
+voltaje en la r 1k0.49
+resisten Rs9141.42
+voltaje en la r 1k0.49
+resisten Rs9117.16
+voltaje en la r 1k0.49
+resisten Rs9102.21
+voltaje en la r 1k0.50
+resisten Rs9052.57
+voltaje en la r 1k0.50
+resisten Rs9089.88
+voltaje en la r 1k0.49
+resisten Rs9152.49
+voltaje en la r 1k0.49
+resisten Rs9190.44
+voltaje en la r 1k0.49
+resisten Rs9215.77
+voltaje en la r 1k0.49
+resisten Rs9223.70
+voltaje en la r 1k0.49
+resisten Rs9236.28
+voltaje en la r 1k0.49
+resisten Rs9240.68
+voltaje en la r 1k0.49
+resisten Rs9242.48
+voltaje en la r 1k0.49
+resisten Rs9235.67
+voltaje en la r 1k0.49
+resisten Rs9258.95
+voltaje en la r 1k0.49
+resisten Rs9246.53
+voltaje en la r 1k0.49
+resisten Rs9226.49
+voltaje en la r 1k0.49
+resisten Rs9221.89
+voltaje en la r 1k0.49
+resisten Rs9192.01
+voltaje en la r 1k0.49
+resisten Rs9195.37
+voltaje en la r 1k0.49
+resisten Rs9195.72
+voltaje en la r 1k0.49
+resisten Rs9185.88
+voltaje en la r 1k0.49
+resisten Rs9206.29
+voltaje en la r 1k0.50
+resisten Rs9082.08
+voltaje en la r 1k0.49
+resisten Rs9108.94
+voltaje en la r 1k0.49
+resisten Rs9136.70
+voltaje en la r 1k0.49
+resisten Rs9175.30
+voltaje en la r 1k0.49
+resisten Rs9208.71
+voltaje en la r 1k0.49
+resisten Rs9231.21
+voltaje en la r 1k0.49
+resisten Rs9249.63
+voltaje en la r 1k0.49
+resisten Rs9276.62
+voltaje en la r 1k0.49
+resisten Rs9302.30
+voltaje en la r 1k0.48
+resisten Rs9318.92
+voltaje en la r 1k0.48
+resisten Rs9339.35
+voltaje en la r 1k0.48
+resisten Rs9353.50
+voltaje en la r 1k0.48
+resisten Rs9357.08
+voltaje en la r 1k0.48
+resisten Rs9356.67
+voltaje en la r 1k0.49
+resisten Rs9303.78
+voltaje en la r 1k0.48
+resisten Rs9326.21
+voltaje en la r 1k0.48
+resisten Rs9367.73
+voltaje en la r 1k0.48
+resisten Rs9394.32
+voltaje en la r 1k0.48
+resisten Rs9411.55
+voltaje en la r 1k0.48
+resisten Rs9449.48
+voltaje en la r 1k0.48
+resisten Rs9471.74
+voltaje en la r 1k0.48
+resisten Rs9497.27
+voltaje en la r 1k0.48
+resisten Rs9499.91
+voltaje en la r 1k0.47
+resisten Rs9529.59
+voltaje en la r 1k0.47
+resisten Rs9550.92
+voltaje en la r 1k0.47
+resisten Rs9575.70
+voltaje en la r 1k0.47
+resisten Rs9599.00
+voltaje en la r 1k0.47
+resisten Rs9624.22
+voltaje en la r 1k0.47
+resisten Rs9635.31
+voltaje en la r 1k0.47
+resisten Rs9648.51
+voltaje en la r 1k0.47
+resisten Rs9657.49
+voltaje en la r 1k0.47
+resisten Rs9676.45
+voltaje en la r 1k0.47
+resisten Rs9683.77
+voltaje en la r 1k0.47
+resisten Rs9698.37
+voltaje en la r 1k0.47
+resisten Rs9703.60
+voltaje en la r 1k0.48
+resisten Rs9486.20
+voltaje en la r 1k0.48
+resisten Rs9323.16
+voltaje en la r 1k0.48
+resisten Rs9311.02
+voltaje en la r 1k0.49
+resisten Rs9204.24
+voltaje en la r 1k0.49
+resisten Rs9215.26
+voltaje en la r 1k0.49
+resisten Rs9185.40
+voltaje en la r 1k0.49
+resisten Rs9183.98
+voltaje en la r 1k0.49
+resisten Rs9171.76
+voltaje en la r 1k0.49
+resisten Rs9141.47
+voltaje en la r 1k0.49
+resisten Rs9153.97
+voltaje en la r 1k0.49
+resisten Rs9180.91
+voltaje en la r 1k0.49
+resisten Rs9220.39
+voltaje en la r 1k0.49
+resisten Rs9246.53
+voltaje en la r 1k0.49
+resisten Rs9263.64
+voltaje en la r 1k0.49
+resisten Rs9279.15
+voltaje en la r 1k0.49
+resisten Rs9163.02
+voltaje en la r 1k0.50
+resisten Rs8957.36
+voltaje en la r 1k0.50
+resisten Rs8945.25
+voltaje en la r 1k0.51
+resisten Rs8871.65
+voltaje en la r 1k0.51
+resisten Rs8736.93
+voltaje en la r 1k0.52
+resisten Rs8678.10
+voltaje en la r 1k0.53
+resisten Rs8453.48
+voltaje en la r 1k0.54
+resisten Rs8209.25
+voltaje en la r 1k0.54
+resisten Rs8252.37
+voltaje en la r 1k0.53
+resisten Rs8385.19
+voltaje en la r 1k0.53
+resisten Rs8371.10
+voltaje en la r 1k0.53
+resisten Rs8362.87
+voltaje en la r 1k0.53
+resisten Rs8369.49
+voltaje en la r 1k0.53
+resisten Rs8424.21
+voltaje en la r 1k0.53
+resisten Rs8416.43
+voltaje en la r 1k0.53
+resisten Rs8364.46
+voltaje en la r 1k0.53
+resisten Rs8350.60
+voltaje en la r 1k0.53
+resisten Rs8360.09
+voltaje en la r 1k0.54
+resisten Rs8269.01
+voltaje en la r 1k0.54
+resisten Rs8259.43
+voltaje en la r 1k0.53
+resisten Rs8377.93
+voltaje en la r 1k0.53
+resisten Rs8352.69
+voltaje en la r 1k0.54
+resisten Rs8321.60
+voltaje en la r 1k0.54
+resisten Rs8300.57
+voltaje en la r 1k0.54
+resisten Rs8276.65
+voltaje en la r 1k0.54
+resisten Rs8323.55
+voltaje en la r 1k0.53
+resisten Rs8411.19
+voltaje en la r 1k0.53
+resisten Rs8460.54
+voltaje en la r 1k0.53
+resisten Rs8456.93
+voltaje en la r 1k0.53
+resisten Rs8512.32
+voltaje en la r 1k0.52
+resisten Rs8618.80
+voltaje en la r 1k0.51
+resisten Rs8730.98
+voltaje en la r 1k0.52
+resisten Rs8610.08
+voltaje en la r 1k0.52
+resisten Rs8639.93
+voltaje en la r 1k0.51
+resisten Rs8736.33
+voltaje en la r 1k0.52
+resisten Rs8708.71
+voltaje en la r 1k0.52
+resisten Rs8644.42
+voltaje en la r 1k0.52
+resisten Rs8663.43
+voltaje en la r 1k0.52
+resisten Rs8654.34
+voltaje en la r 1k0.52
+resisten Rs8547.58
+voltaje en la r 1k0.53
+resisten Rs8499.57
+voltaje en la r 1k0.52
+resisten Rs8530.79
+voltaje en la r 1k0.53
+resisten Rs8507.16
+voltaje en la r 1k0.53
+resisten Rs8457.11
+voltaje en la r 1k0.53
+resisten Rs8481.81
+voltaje en la r 1k0.53
+resisten Rs8447.94
+voltaje en la r 1k0.53
+resisten Rs8466.86
+voltaje en la r 1k0.53
+resisten Rs8485.48
+voltaje en la r 1k0.53
+resisten Rs8442.99
+voltaje en la r 1k0.53
+resisten Rs8389.95
+voltaje en la r 1k0.53
+resisten Rs8441.77
+voltaje en la r 1k0.53
+resisten Rs8410.41
+voltaje en la r 1k0.53
+resisten Rs8419.07
+voltaje en la r 1k0.53
+resisten Rs8414.29
+voltaje en la r 1k0.53
+resisten Rs8417.99
+voltaje en la r 1k0.53
+resisten Rs8468.94
+voltaje en la r 1k0.53
+resisten Rs8481.77
+voltaje en la r 1k0.53
+resisten Rs8486.93
+voltaje en la r 1k0.53
+resisten Rs8486.67
+voltaje en la r 1k0.53
+resisten Rs8466.97
+voltaje en la r 1k0.53
+resisten Rs8431.44
+voltaje en la r 1k0.53
+resisten Rs8429.40
+voltaje en la r 1k0.54
+resisten Rs8311.40
+voltaje en la r 1k0.54
+resisten Rs8319.05
+voltaje en la r 1k0.53
+resisten Rs8416.19
+voltaje en la r 1k0.53
+resisten Rs8465.37
+voltaje en la r 1k0.53
+resisten Rs8453.44
+voltaje en la r 1k0.53
+resisten Rs8446.63
+voltaje en la r 1k0.53
+resisten Rs8423.17
+voltaje en la r 1k0.53
+resisten Rs8438.44
+voltaje en la r 1k0.53
+resisten Rs8469.86
+voltaje en la r 1k0.52
+resisten Rs8545.26
+voltaje en la r 1k0.53
+resisten Rs8518.08
+voltaje en la r 1k0.52
+resisten Rs8577.21
+voltaje en la r 1k0.52
+resisten Rs8683.82
+voltaje en la r 1k0.51
+resisten Rs8755.26
+voltaje en la r 1k0.51
+resisten Rs8834.80
+voltaje en la r 1k0.51
+resisten Rs8900.39
+voltaje en la r 1k0.50
+resisten Rs8983.15
+voltaje en la r 1k0.50
+resisten Rs9065.74
+voltaje en la r 1k0.50
+resisten Rs8914.83
+voltaje en la r 1k0.50
+resisten Rs8935.13
+voltaje en la r 1k0.51
+resisten Rs8895.10
+voltaje en la r 1k0.51
+resisten Rs8785.15
+voltaje en la r 1k0.51
+resisten Rs8771.49
+voltaje en la r 1k0.52
+resisten Rs8683.96
+voltaje en la r 1k0.52
+resisten Rs8683.96
+voltaje en la r 1k0.52
+resisten Rs8633.69
+voltaje en la r 1k0.53
+resisten Rs8506.82
+voltaje en la r 1k0.53
+resisten Rs8487.97
+voltaje en la r 1k0.52
+resisten Rs8531.46
+voltaje en la r 1k0.52
+resisten Rs8596.86
+voltaje en la r 1k0.53
+resisten Rs8468.22
+voltaje en la r 1k0.52
+resisten Rs8525.52
+voltaje en la r 1k0.53
+resisten Rs8499.21
+voltaje en la r 1k0.52
+resisten Rs8625.90
+voltaje en la r 1k0.51
+resisten Rs8770.44
+voltaje en la r 1k0.52
+resisten Rs8689.94
+voltaje en la r 1k0.51
+resisten Rs8720.82
+voltaje en la r 1k0.52
+resisten Rs8687.28
+voltaje en la r 1k0.52
+resisten Rs8605.68
+voltaje en la r 1k0.52
+resisten Rs8640.88
+voltaje en la r 1k0.52
+resisten Rs8591.98
+voltaje en la r 1k0.53
+resisten Rs8501.71
+voltaje en la r 1k0.52
+resisten Rs8528.82
+voltaje en la r 1k0.52
+resisten Rs8651.34
+voltaje en la r 1k0.51
+resisten Rs8733.50
+voltaje en la r 1k0.51
+resisten Rs8810.05
+voltaje en la r 1k0.50
+resisten Rs8917.90
+voltaje en la r 1k0.50
+resisten Rs8989.92
+voltaje en la r 1k0.50
+resisten Rs9030.87
+voltaje en la r 1k0.50
+resisten Rs9098.52
+voltaje en la r 1k0.49
+resisten Rs9123.11
+voltaje en la r 1k0.49
+resisten Rs9144.96
+voltaje en la r 1k0.49
+resisten Rs9197.14
+voltaje en la r 1k0.49
+resisten Rs9220.89
+voltaje en la r 1k0.49
+resisten Rs9227.89
+voltaje en la r 1k0.49
+resisten Rs9241.43
+voltaje en la r 1k0.49
+resisten Rs9247.07
+voltaje en la r 1k0.49
+resisten Rs9202.40
+voltaje en la r 1k0.49
+resisten Rs9214.11
+voltaje en la r 1k0.49
+resisten Rs9261.71
+voltaje en la r 1k0.48
+resisten Rs9332.98
+voltaje en la r 1k0.48
+resisten Rs9393.05
+voltaje en la r 1k0.48
+resisten Rs9448.89
+voltaje en la r 1k0.48
+resisten Rs9500.61
+voltaje en la r 1k0.48
+resisten Rs9519.93
+voltaje en la r 1k0.47
+resisten Rs9539.62
+voltaje en la r 1k0.47
+resisten Rs9580.97
+voltaje en la r 1k0.47
+resisten Rs9580.81
+voltaje en la r 1k0.47
+resisten Rs9609.98
+voltaje en la r 1k0.47
+resisten Rs9527.97
+voltaje en la r 1k0.49
+resisten Rs9292.90
+voltaje en la r 1k0.49
+resisten Rs9247.68
+voltaje en la r 1k0.49
+resisten Rs9219.57
+voltaje en la r 1k0.49
+resisten Rs9221.20
+voltaje en la r 1k0.49
+resisten Rs9232.29
+voltaje en la r 1k0.49
+resisten Rs9278.81
+voltaje en la r 1k0.48
+resisten Rs9339.27
+voltaje en la r 1k0.48
+resisten Rs9418.55
+voltaje en la r 1k0.48
+resisten Rs9476.51
+voltaje en la r 1k0.48
+resisten Rs9518.93
+voltaje en la r 1k0.47
+resisten Rs9556.28
+voltaje en la r 1k0.47
+resisten Rs9594.06
+voltaje en la r 1k0.47
+resisten Rs9617.88
+voltaje en la r 1k0.47
+resisten Rs9637.22
+voltaje en la r 1k0.47
+resisten Rs9659.93
+voltaje en la r 1k0.47
+resisten Rs9674.33
+voltaje en la r 1k0.47
+resisten Rs9598.86
+voltaje en la r 1k0.47
+resisten Rs9628.93
+voltaje en la r 1k0.47
+resisten Rs9653.66
+voltaje en la r 1k0.47
+resisten Rs9690.19
+voltaje en la r 1k0.47
+resisten Rs9714.11
+voltaje en la r 1k0.47
+resisten Rs9749.70
+voltaje en la r 1k0.46
+resisten Rs9777.66
+voltaje en la r 1k0.46
+resisten Rs9819.50
+voltaje en la r 1k0.46
+resisten Rs9834.87
+voltaje en la r 1k0.46
+resisten Rs9866.82
+voltaje en la r 1k0.46
+resisten Rs9869.22
+voltaje en la r 1k0.46
+resisten Rs9892.21
+voltaje en la r 1k0.46
+resisten Rs9911.17
+voltaje en la r 1k0.46
+resisten Rs9922.43
+voltaje en la r 1k0.46
+resisten Rs9935.36
+voltaje en la r 1k0.46
+resisten Rs9946.49
+voltaje en la r 1k0.46
+resisten Rs9972.22
+voltaje en la r 1k0.46
+resisten Rs9979.34
+voltaje en la r 1k0.46
+resisten Rs9984.59
+voltaje en la r 1k0.45
+resisten Rs10005.76
+voltaje en la r 1k0.45
+resisten Rs10027.02
+voltaje en la r 1k0.45
+resisten Rs10027.64
+voltaje en la r 1k0.45
+resisten Rs10043.40
+voltaje en la r 1k0.45
+resisten Rs10058.41
+voltaje en la r 1k0.45
+resisten Rs10056.77
+voltaje en la r 1k0.45
+resisten Rs10067.23
+voltaje en la r 1k0.45
+resisten Rs10082.75
+voltaje en la r 1k0.45
+resisten Rs10085.57
+voltaje en la r 1k0.45
+resisten Rs10096.17
+voltaje en la r 1k0.45
+resisten Rs10103.19
+voltaje en la r 1k0.45
+resisten Rs10105.75
+voltaje en la r 1k0.45
+resisten Rs10106.29
+voltaje en la r 1k0.45
+resisten Rs10114.97
+voltaje en la r 1k0.45
+resisten Rs10118.05
+voltaje en la r 1k0.45
+resisten Rs10121.37
+voltaje en la r 1k0.45
+resisten Rs10119.98
+voltaje en la r 1k0.45
+resisten Rs10122.70
+voltaje en la r 1k0.45
+resisten Rs10124.15
+voltaje en la r 1k0.45
+resisten Rs10134.35
+voltaje en la r 1k0.45
+resisten Rs10124.09
+voltaje en la r 1k0.45
+resisten Rs10129.75
+voltaje en la r 1k0.45
+resisten Rs10130.69
+voltaje en la r 1k0.45
+resisten Rs10141.26
+voltaje en la r 1k0.45
+resisten Rs10136.26
+voltaje en la r 1k0.45
+resisten Rs10147.02
+voltaje en la r 1k0.45
+resisten Rs10138.44
+voltaje en la r 1k0.45
+resisten Rs10149.06
+voltaje en la r 1k0.45
+resisten Rs10144.11
+voltaje en la r 1k0.45
+resisten Rs10149.57
+voltaje en la r 1k0.45
+resisten Rs10151.79
+voltaje en la r 1k0.45
+resisten Rs10162.76
+voltaje en la r 1k0.45
+resisten Rs10163.10
+voltaje en la r 1k0.45
+resisten Rs10162.16
+voltaje en la r 1k0.45
+resisten Rs10161.15
+voltaje en la r 1k0.45
+resisten Rs10165.50
+voltaje en la r 1k0.45
+resisten Rs10167.88
+voltaje en la r 1k0.45
+resisten Rs10168.34
+voltaje en la r 1k0.45
+resisten Rs10176.33
+voltaje en la r 1k0.45
+resisten Rs10172.60
+voltaje en la r 1k0.45
+resisten Rs10169.50
+voltaje en la r 1k0.45
+resisten Rs10171.72
+voltaje en la r 1k0.45
+resisten Rs10175.53
+voltaje en la r 1k0.45
+resisten Rs10171.23
+voltaje en la r 1k0.45
+resisten Rs10180.54
+voltaje en la r 1k0.45
+resisten Rs10176.66
+voltaje en la r 1k0.45
+resisten Rs10176.66
+voltaje en la r 1k0.45
+resisten Rs10176.11
+voltaje en la r 1k0.45
+resisten Rs10168.70
+voltaje en la r 1k0.45
+resisten Rs10170.26
+voltaje en la r 1k0.45
+resisten Rs10170.35
+voltaje en la r 1k0.45
+resisten Rs10175.35
+voltaje en la r 1k0.45
+resisten Rs10177.00
+voltaje en la r 1k0.45
+resisten Rs10181.97
+voltaje en la r 1k0.45
+resisten Rs10185.18
+voltaje en la r 1k0.45
+resisten Rs10173.98
+voltaje en la r 1k0.45
+resisten Rs10184.84
+voltaje en la r 1k0.45
+resisten Rs10194.60
+voltaje en la r 1k0.45
+resisten Rs10201.74
+voltaje en la r 1k0.45
+resisten Rs10205.29
+voltaje en la r 1k0.45
+resisten Rs10207.63
+voltaje en la r 1k0.45
+resisten Rs10221.20
+voltaje en la r 1k0.45
+resisten Rs10211.16
+voltaje en la r 1k0.45
+resisten Rs10220.83
+voltaje en la r 1k0.44
+resisten Rs10236.54
+voltaje en la r 1k0.45
+resisten Rs10230.56
+voltaje en la r 1k0.45
+resisten Rs10231.21
+voltaje en la r 1k0.44
+resisten Rs10236.97
+voltaje en la r 1k0.45
+resisten Rs10227.08
+voltaje en la r 1k0.45
+resisten Rs10208.92
+voltaje en la r 1k0.45
+resisten Rs10212.87
+voltaje en la r 1k0.45
+resisten Rs10206.00
+voltaje en la r 1k0.45
+resisten Rs10200.02
+voltaje en la r 1k0.45
+resisten Rs10201.12
+voltaje en la r 1k0.45
+resisten Rs10197.29
+voltaje en la r 1k0.45
+resisten Rs10189.37
+voltaje en la r 1k0.45
+resisten Rs10199.07
+voltaje en la r 1k0.45
+resisten Rs10196.87
+voltaje en la r 1k0.45
+resisten Rs10196.44
+voltaje en la r 1k0.45
+resisten Rs10198.28
+voltaje en la r 1k0.45
+resisten Rs10187.69
+voltaje en la r 1k0.45
+resisten Rs10191.21
+voltaje en la r 1k0.45
+resisten Rs10187.14
+voltaje en la r 1k0.45
+resisten Rs10187.78
+voltaje en la r 1k0.45
+resisten Rs10189.09
+voltaje en la r 1k0.45
+resisten Rs10184.75
+voltaje en la r 1k0.45
+resisten Rs10184.29
+voltaje en la r 1k0.45
+resisten Rs10188.64
+voltaje en la r 1k0.45
+resisten Rs10191.54
+voltaje en la r 1k0.45
+resisten Rs10187.60
+voltaje en la r 1k0.45
+resisten Rs10190.47
+voltaje en la r 1k0.45
+resisten Rs10188.30
+voltaje en la r 1k0.45
+resisten Rs10183.38
+voltaje en la r 1k0.45
+resisten Rs10190.56
+voltaje en la r 1k0.45
+resisten Rs10182.55
+voltaje en la r 1k0.45
+resisten Rs10178.19
+voltaje en la r 1k0.45
+resisten Rs10184.17
+voltaje en la r 1k0.45
+resisten Rs10184.63
+voltaje en la r 1k0.45
+resisten Rs10179.80
+voltaje en la r 1k0.45
+resisten Rs10175.72
+voltaje en la r 1k0.45
+resisten Rs10183.20
+voltaje en la r 1k0.45
+resisten Rs10183.32
+voltaje en la r 1k0.45
+resisten Rs10184.27
+voltaje en la r 1k0.45
+resisten Rs10186.92
+voltaje en la r 1k0.45
+resisten Rs10188.15
+voltaje en la r 1k0.45
+resisten Rs10188.21
+voltaje en la r 1k0.45
+resisten Rs10199.75
+voltaje en la r 1k0.45
+resisten Rs10206.18
+voltaje en la r 1k0.45
+resisten Rs10200.08
+voltaje en la r 1k0.45
+resisten Rs10219.48
+voltaje en la r 1k0.45
+resisten Rs10216.04
+voltaje en la r 1k0.45
+resisten Rs10231.98
+voltaje en la r 1k0.45
+resisten Rs10227.11
+voltaje en la r 1k0.45
+resisten Rs10232.53
+voltaje en la r 1k0.44
+resisten Rs10241.02
+voltaje en la r 1k0.44
+resisten Rs10241.72
+voltaje en la r 1k0.45
+resisten Rs10234.60
+voltaje en la r 1k0.44
+resisten Rs10243.58
+voltaje en la r 1k0.44
+resisten Rs10247.96
+voltaje en la r 1k0.44
+resisten Rs10247.99
+voltaje en la r 1k0.44
+resisten Rs10264.09
+voltaje en la r 1k0.44
+resisten Rs10258.26
+voltaje en la r 1k0.44
+resisten Rs10270.47
+voltaje en la r 1k0.44
+resisten Rs10284.55
+voltaje en la r 1k0.44
+resisten Rs10298.94
+voltaje en la r 1k0.44
+resisten Rs10294.04
+voltaje en la r 1k0.44
+resisten Rs10322.65
+voltaje en la r 1k0.44
+resisten Rs10340.12
+voltaje en la r 1k0.44
+resisten Rs10357.14
+voltaje en la r 1k0.44
+resisten Rs10363.19
+voltaje en la r 1k0.44
+resisten Rs10383.57
+voltaje en la r 1k0.44
+resisten Rs10390.96
+voltaje en la r 1k0.44
+resisten Rs10405.42
+voltaje en la r 1k0.44
+resisten Rs10405.46
+voltaje en la r 1k0.44
+resisten Rs10424.46
+voltaje en la r 1k0.44
+resisten Rs10450.08
+voltaje en la r 1k0.44
+resisten Rs10469.33
+voltaje en la r 1k0.44
+resisten Rs10461.43
+voltaje en la r 1k0.44
+resisten Rs10484.87
+voltaje en la r 1k0.44
+resisten Rs10486.80
+voltaje en la r 1k0.43
+resisten Rs10496.71
+voltaje en la r 1k0.43
+resisten Rs10501.23
+voltaje en la r 1k0.43
+resisten Rs10520.26
+voltaje en la r 1k0.43
+resisten Rs10517.73
+voltaje en la r 1k0.43
+resisten Rs10525.25
+voltaje en la r 1k0.43
+resisten Rs10526.61
+voltaje en la r 1k0.43
+resisten Rs10541.14
+voltaje en la r 1k0.43
+resisten Rs10551.69
+voltaje en la r 1k0.43
+resisten Rs10554.92
+voltaje en la r 1k0.43
+resisten Rs10565.62
+voltaje en la r 1k0.43
+resisten Rs10577.20
+voltaje en la r 1k0.43
+resisten Rs10593.86
+voltaje en la r 1k0.43
+resisten Rs10602.27
+voltaje en la r 1k0.43
+resisten Rs10617.65
+voltaje en la r 1k0.43
+resisten Rs10633.69
+voltaje en la r 1k0.43
+resisten Rs10621.73
+voltaje en la r 1k0.43
+resisten Rs10634.12
+voltaje en la r 1k0.43
+resisten Rs10651.90
+voltaje en la r 1k0.43
+resisten Rs10649.35
+voltaje en la r 1k0.43
+resisten Rs10664.48
+voltaje en la r 1k0.43
+resisten Rs10669.30
+voltaje en la r 1k0.43
+resisten Rs10677.72
+voltaje en la r 1k0.43
+resisten Rs10696.51
+voltaje en la r 1k0.43
+resisten Rs10705.60
+voltaje en la r 1k0.43
+resisten Rs10714.65
+voltaje en la r 1k0.43
+resisten Rs10724.81
+voltaje en la r 1k0.43
+resisten Rs10733.45
+voltaje en la r 1k0.43
+resisten Rs10751.77
+voltaje en la r 1k0.43
+resisten Rs10763.83
+voltaje en la r 1k0.42
+resisten Rs10774.86
+voltaje en la r 1k0.42
+resisten Rs10782.89
+voltaje en la r 1k0.42
+resisten Rs10796.06
+voltaje en la r 1k0.42
+resisten Rs10793.38
+voltaje en la r 1k0.42
+resisten Rs10800.55
+voltaje en la r 1k0.42
+resisten Rs10802.42
+voltaje en la r 1k0.42
+resisten Rs10805.38
+voltaje en la r 1k0.42
+resisten Rs10827.14
+voltaje en la r 1k0.42
+resisten Rs10834.80
+voltaje en la r 1k0.42
+resisten Rs10845.45
+voltaje en la r 1k0.42
+resisten Rs10848.02
+voltaje en la r 1k0.42
+resisten Rs10841.44
+voltaje en la r 1k0.42
+resisten Rs10871.69
+voltaje en la r 1k0.42
+resisten Rs10870.90
+voltaje en la r 1k0.42
+resisten Rs10863.47
+voltaje en la r 1k0.42
+resisten Rs10867.08
+voltaje en la r 1k0.42
+resisten Rs10876.65
+voltaje en la r 1k0.42
+resisten Rs10877.82
+voltaje en la r 1k0.42
+resisten Rs10896.94
+voltaje en la r 1k0.42
+resisten Rs10908.92
+voltaje en la r 1k0.42
+resisten Rs10924.28
+voltaje en la r 1k0.42
+resisten Rs10919.63
+voltaje en la r 1k0.42
+resisten Rs10931.16
+voltaje en la r 1k0.42
+resisten Rs10946.31
+voltaje en la r 1k0.42
+resisten Rs10956.01
+voltaje en la r 1k0.42
+resisten Rs10963.76
+voltaje en la r 1k0.42
+resisten Rs10959.40
+voltaje en la r 1k0.42
+resisten Rs10967.09
+voltaje en la r 1k0.42
+resisten Rs10969.78
+voltaje en la r 1k0.42
+resisten Rs10976.15
+voltaje en la r 1k0.42
+resisten Rs10985.06
+voltaje en la r 1k0.42
+resisten Rs10996.33
+voltaje en la r 1k0.42
+resisten Rs10995.24
+voltaje en la r 1k0.42
+resisten Rs11004.25
+voltaje en la r 1k0.42
+resisten Rs11009.85
+voltaje en la r 1k0.42
+resisten Rs11004.18
+voltaje en la r 1k0.42
+resisten Rs11013.51
+voltaje en la r 1k0.42
+resisten Rs11017.32
+voltaje en la r 1k0.42
+resisten Rs11029.15
+voltaje en la r 1k0.42
+resisten Rs11027.27
+voltaje en la r 1k0.42
+resisten Rs11030.46
+voltaje en la r 1k0.42
+resisten Rs11030.74
+voltaje en la r 1k0.42
+resisten Rs11036.89
+voltaje en la r 1k0.42
+resisten Rs11035.73
+voltaje en la r 1k0.42
+resisten Rs11042.63
+voltaje en la r 1k0.42
+resisten Rs11043.41
+voltaje en la r 1k0.42
+resisten Rs11046.49
+voltaje en la r 1k0.41
+resisten Rs11053.83
+voltaje en la r 1k0.42
+resisten Rs11043.12
+voltaje en la r 1k0.41
+resisten Rs11049.40
+voltaje en la r 1k0.41
+resisten Rs11056.71
+voltaje en la r 1k0.41
+resisten Rs11072.25
+voltaje en la r 1k0.41
+resisten Rs11077.52
+voltaje en la r 1k0.41
+resisten Rs11072.32
+voltaje en la r 1k0.41
+resisten Rs11067.69
+voltaje en la r 1k0.41
+resisten Rs11081.44
+voltaje en la r 1k0.41
+resisten Rs11082.40
+voltaje en la r 1k0.41
+resisten Rs11090.03
+voltaje en la r 1k0.41
+resisten Rs11090.86
+voltaje en la r 1k0.41
+resisten Rs11105.91
+voltaje en la r 1k0.41
+resisten Rs11100.40
+voltaje en la r 1k0.41
+resisten Rs11106.95
+voltaje en la r 1k0.41
+resisten Rs11111.49
+voltaje en la r 1k0.41
+resisten Rs11124.77
+voltaje en la r 1k0.41
+resisten Rs11125.74
+voltaje en la r 1k0.41
+resisten Rs11129.65
+voltaje en la r 1k0.41
+resisten Rs11132.71
+voltaje en la r 1k0.41
+resisten Rs11136.92
+voltaje en la r 1k0.41
+resisten Rs11139.25
+voltaje en la r 1k0.41
+resisten Rs11138.25
+voltaje en la r 1k0.41
+resisten Rs11143.94
+voltaje en la r 1k0.41
+resisten Rs11146.96
+voltaje en la r 1k0.41
+resisten Rs11149.13
+voltaje en la r 1k0.41
+resisten Rs11149.99
+voltaje en la r 1k0.41
+resisten Rs11152.01
+voltaje en la r 1k0.41
+resisten Rs11152.62
+voltaje en la r 1k0.41
+resisten Rs11155.47
+voltaje en la r 1k0.41
+resisten Rs11159.23
+voltaje en la r 1k0.41
+resisten Rs11160.78
+voltaje en la r 1k0.41
+resisten Rs11163.38
+voltaje en la r 1k0.41
+resisten Rs11160.24
+voltaje en la r 1k0.41
+resisten Rs11166.64
+voltaje en la r 1k0.41
+resisten Rs11169.28
+voltaje en la r 1k0.41
+resisten Rs11171.27
+voltaje en la r 1k0.41
+resisten Rs11166.27
+voltaje en la r 1k0.41
+resisten Rs11175.83
+voltaje en la r 1k0.41
+resisten Rs11169.82
+voltaje en la r 1k0.41
+resisten Rs11174.67
+voltaje en la r 1k0.41
+resisten Rs11177.53
+voltaje en la r 1k0.41
+resisten Rs11175.32
+voltaje en la r 1k0.41
+resisten Rs11175.68
+voltaje en la r 1k0.41
+resisten Rs11180.39
+voltaje en la r 1k0.41
+resisten Rs11183.51
+voltaje en la r 1k0.41
+resisten Rs11179.05
+voltaje en la r 1k0.41
+resisten Rs11186.59
+voltaje en la r 1k0.41
+resisten Rs11183.25
+voltaje en la r 1k0.41
+resisten Rs11184.92
+voltaje en la r 1k0.41
+resisten Rs11179.96
+voltaje en la r 1k0.41
+resisten Rs11183.36
+voltaje en la r 1k0.41
+resisten Rs11189.53
+voltaje en la r 1k0.41
+resisten Rs11189.82
+voltaje en la r 1k0.41
+resisten Rs11186.16
+voltaje en la r 1k0.41
+resisten Rs11195.12
+voltaje en la r 1k0.41
+resisten Rs11196.65
+voltaje en la r 1k0.41
+resisten Rs11187.90
+voltaje en la r 1k0.41
+resisten Rs11189.13
+voltaje en la r 1k0.41
+resisten Rs11194.47
+voltaje en la r 1k0.41
+resisten Rs11191.64
+voltaje en la r 1k0.41
+resisten Rs11195.63
+voltaje en la r 1k0.41
+resisten Rs11194.11
+voltaje en la r 1k0.41
+resisten Rs11193.60
+voltaje en la r 1k0.41
+resisten Rs11201.12
+voltaje en la r 1k0.41
+resisten Rs11194.58
+voltaje en la r 1k0.41
+resisten Rs11188.77
+voltaje en la r 1k0.41
+resisten Rs11187.86
+voltaje en la r 1k0.41
+resisten Rs11192.07
+voltaje en la r 1k0.41
+resisten Rs11189.09
+voltaje en la r 1k0.41
+resisten Rs11177.89
+voltaje en la r 1k0.41
+resisten Rs11172.68
+voltaje en la r 1k0.41
+resisten Rs11166.13
+voltaje en la r 1k0.41
+resisten Rs11164.79
+voltaje en la r 1k0.41
+resisten Rs11164.97
+voltaje en la r 1k0.41
+resisten Rs11153.20
+voltaje en la r 1k0.41
+resisten Rs11156.09
+voltaje en la r 1k0.41
+resisten Rs11151.94
+voltaje en la r 1k0.41
+resisten Rs11142.31
+voltaje en la r 1k0.41
+resisten Rs11140.98
+voltaje en la r 1k0.41
+resisten Rs11131.81
+voltaje en la r 1k0.41
+resisten Rs11138.53
+voltaje en la r 1k0.41
+resisten Rs11134.54
+voltaje en la r 1k0.41
+resisten Rs11142.46
+voltaje en la r 1k0.41
+resisten Rs11144.08
+voltaje en la r 1k0.41
+resisten Rs11139.15
+voltaje en la r 1k0.41
+resisten Rs11149.38
+voltaje en la r 1k0.41
+resisten Rs11145.63
+voltaje en la r 1k0.41
+resisten Rs11137.06
+voltaje en la r 1k0.41
+resisten Rs11135.58
+voltaje en la r 1k0.41
+resisten Rs11149.84
+voltaje en la r 1k0.41
+resisten Rs11146.31
+voltaje en la r 1k0.41
+resisten Rs11131.81
+voltaje en la r 1k0.41
+resisten Rs11139.29
+voltaje en la r 1k0.41
+resisten Rs11125.27
+voltaje en la r 1k0.41
+resisten Rs11119.31
+voltaje en la r 1k0.41
+resisten Rs11109.88
+voltaje en la r 1k0.41
+resisten Rs11119.45
+voltaje en la r 1k0.41
+resisten Rs11109.52
+voltaje en la r 1k0.41
+resisten Rs11107.48
+voltaje en la r 1k0.41
+resisten Rs11106.01
+voltaje en la r 1k0.41
+resisten Rs11107.02
+voltaje en la r 1k0.41
+resisten Rs11110.78
+voltaje en la r 1k0.41
+resisten Rs11111.46
+voltaje en la r 1k0.41
+resisten Rs11120.78
+voltaje en la r 1k0.41
+resisten Rs11114.54
+voltaje en la r 1k0.41
+resisten Rs11120.67
+voltaje en la r 1k0.41
+resisten Rs11126.02
+voltaje en la r 1k0.41
+resisten Rs11121.61
+voltaje en la r 1k0.41
+resisten Rs11131.41
+voltaje en la r 1k0.41
+resisten Rs11135.76
+voltaje en la r 1k0.41
+resisten Rs11129.47
+voltaje en la r 1k0.41
+resisten Rs11133.54
+voltaje en la r 1k0.41
+resisten Rs11124.59
+voltaje en la r 1k0.41
+resisten Rs11122.11
+voltaje en la r 1k0.41
+resisten Rs11121.28
+voltaje en la r 1k0.41
+resisten Rs11113.97
+voltaje en la r 1k0.41
+resisten Rs11103.83
+voltaje en la r 1k0.41
+resisten Rs11116.08
+voltaje en la r 1k0.41
+resisten Rs11103.90
+voltaje en la r 1k0.41
+resisten Rs11091.75
+voltaje en la r 1k0.41
+resisten Rs11079.94
+voltaje en la r 1k0.41
+resisten Rs11077.52
+voltaje en la r 1k0.41
+resisten Rs11056.85
+voltaje en la r 1k0.41
+resisten Rs11052.73
+voltaje en la r 1k0.42
+resisten Rs11032.26
+voltaje en la r 1k0.42
+resisten Rs11022.44
+voltaje en la r 1k0.42
+resisten Rs11028.02
+voltaje en la r 1k0.42
+resisten Rs11025.58
+voltaje en la r 1k0.42
+resisten Rs11019.36
+voltaje en la r 1k0.42
+resisten Rs11020.04
+voltaje en la r 1k0.42
+resisten Rs11013.83
+voltaje en la r 1k0.42
+resisten Rs11014.71
+voltaje en la r 1k0.42
+resisten Rs11006.53
+voltaje en la r 1k0.42
+resisten Rs10994.36
+voltaje en la r 1k0.42
+resisten Rs10983.66
+voltaje en la r 1k0.42
+resisten Rs10986.08
+voltaje en la r 1k0.42
+resisten Rs10972.83
+voltaje en la r 1k0.42
+resisten Rs10963.48
+voltaje en la r 1k0.42
+resisten Rs10958.80
+voltaje en la r 1k0.42
+resisten Rs10953.01
+voltaje en la r 1k0.42
+resisten Rs10961.35
+voltaje en la r 1k0.42
+resisten Rs10948.78
+voltaje en la r 1k0.42
+resisten Rs10945.37
+voltaje en la r 1k0.42
+resisten Rs10922.79
+voltaje en la r 1k0.42
+resisten Rs10923.94
+voltaje en la r 1k0.42
+resisten Rs10916.13
+voltaje en la r 1k0.42
+resisten Rs10888.48
+voltaje en la r 1k0.42
+resisten Rs10870.28
+voltaje en la r 1k0.42
+resisten Rs10881.99
+voltaje en la r 1k0.42
+resisten Rs10866.70
+voltaje en la r 1k0.42
+resisten Rs10859.00
+voltaje en la r 1k0.42
+resisten Rs10833.81
+voltaje en la r 1k0.42
+resisten Rs10844.56
+voltaje en la r 1k0.42
+resisten Rs10847.61
+voltaje en la r 1k0.42
+resisten Rs10835.14
+voltaje en la r 1k0.42
+resisten Rs10827.62
+voltaje en la r 1k0.42
+resisten Rs10845.07
+voltaje en la r 1k0.42
+resisten Rs10850.25
+voltaje en la r 1k0.42
+resisten Rs10845.96
+voltaje en la r 1k0.42
+resisten Rs10835.24
+voltaje en la r 1k0.42
+resisten Rs10831.17
+voltaje en la r 1k0.42
+resisten Rs10840.24
+voltaje en la r 1k0.42
+resisten Rs10827.89
+voltaje en la r 1k0.42
+resisten Rs10822.39
+voltaje en la r 1k0.42
+resisten Rs10820.75
+voltaje en la r 1k0.42
+resisten Rs10833.91
+voltaje en la r 1k0.42
+resisten Rs10831.00
+voltaje en la r 1k0.42
+resisten Rs10815.64
+voltaje en la r 1k0.42
+resisten Rs10806.91
+voltaje en la r 1k0.42
+resisten Rs10816.66
+voltaje en la r 1k0.42
+resisten Rs10802.45
+voltaje en la r 1k0.42
+resisten Rs10811.17
+voltaje en la r 1k0.42
+resisten Rs10797.56
+voltaje en la r 1k0.42
+resisten Rs10796.57
+voltaje en la r 1k0.42
+resisten Rs10809.60
+voltaje en la r 1k0.42
+resisten Rs10806.98
+voltaje en la r 1k0.42
+resisten Rs10812.98
+voltaje en la r 1k0.42
+resisten Rs10797.86
+voltaje en la r 1k0.43
+resisten Rs10752.72
+voltaje en la r 1k0.44
+resisten Rs10407.39
+voltaje en la r 1k0.44
+resisten Rs10456.04
+voltaje en la r 1k0.44
+resisten Rs10463.74
+voltaje en la r 1k0.44
+resisten Rs10483.45
+voltaje en la r 1k0.43
+resisten Rs10516.82
+voltaje en la r 1k0.44
+resisten Rs10418.91
+voltaje en la r 1k0.44
+resisten Rs10425.25
+voltaje en la r 1k0.44
+resisten Rs10441.35
+voltaje en la r 1k0.44
+resisten Rs10241.75
+voltaje en la r 1k0.44
+resisten Rs10286.85
+voltaje en la r 1k0.45
+resisten Rs10181.73
+voltaje en la r 1k0.46
+resisten Rs9958.86
+voltaje en la r 1k0.45
+resisten Rs9995.18
+voltaje en la r 1k0.47
+resisten Rs9741.23
+voltaje en la r 1k0.46
+resisten Rs9776.95
+voltaje en la r 1k0.47
+resisten Rs9606.30
+voltaje en la r 1k0.47
+resisten Rs9621.21
+voltaje en la r 1k0.47
+resisten Rs9685.61
+voltaje en la r 1k0.47
+resisten Rs9708.50
+voltaje en la r 1k0.47
+resisten Rs9671.99
+voltaje en la r 1k0.47
+resisten Rs9712.68
+voltaje en la r 1k0.47
+resisten Rs9698.18
+voltaje en la r 1k0.46
+resisten Rs9759.75
+voltaje en la r 1k0.46
+resisten Rs9792.74
+voltaje en la r 1k0.46
+resisten Rs9808.07
+voltaje en la r 1k0.46
+resisten Rs9858.03
+voltaje en la r 1k0.46
+resisten Rs9868.09
+voltaje en la r 1k0.46
+resisten Rs9867.26
+voltaje en la r 1k0.46
+resisten Rs9878.69
+voltaje en la r 1k0.46
+resisten Rs9812.35
+voltaje en la r 1k0.46
+resisten Rs9874.04
+voltaje en la r 1k0.46
+resisten Rs9933.17
+voltaje en la r 1k0.46
+resisten Rs9988.66
+voltaje en la r 1k0.45
+resisten Rs10041.38
+voltaje en la r 1k0.45
+resisten Rs10084.76
+voltaje en la r 1k0.45
+resisten Rs10113.61
+voltaje en la r 1k0.45
+resisten Rs10130.54
+voltaje en la r 1k0.45
+resisten Rs10143.17
+voltaje en la r 1k0.45
+resisten Rs10160.57
+voltaje en la r 1k0.45
+resisten Rs10182.10
+voltaje en la r 1k0.45
+resisten Rs10192.67
+voltaje en la r 1k0.45
+resisten Rs10206.43
+voltaje en la r 1k0.45
+resisten Rs10200.66
+voltaje en la r 1k0.45
+resisten Rs10220.31
+voltaje en la r 1k0.45
+resisten Rs10222.16
+voltaje en la r 1k0.45
+resisten Rs10195.24
+voltaje en la r 1k0.45
+resisten Rs10191.33
+voltaje en la r 1k0.45
+resisten Rs10200.39
+voltaje en la r 1k0.45
+resisten Rs10211.37
+voltaje en la r 1k0.45
+resisten Rs10218.47
+voltaje en la r 1k0.44
+resisten Rs10238.36
+voltaje en la r 1k0.45
+resisten Rs10231.64
+voltaje en la r 1k0.45
+resisten Rs10217.39
+voltaje en la r 1k0.45
+resisten Rs10201.40
+voltaje en la r 1k0.45
+resisten Rs10215.27
+voltaje en la r 1k0.45
+resisten Rs10205.39
+voltaje en la r 1k0.45
+resisten Rs10208.61
+voltaje en la r 1k0.45
+resisten Rs10215.58
+voltaje en la r 1k0.45
+resisten Rs10204.47
+voltaje en la r 1k0.45
+resisten Rs10196.78
+voltaje en la r 1k0.45
+resisten Rs10184.23
+voltaje en la r 1k0.45
+resisten Rs10181.21
+voltaje en la r 1k0.45
+resisten Rs10183.41
+voltaje en la r 1k0.45
+resisten Rs10187.35
+voltaje en la r 1k0.45
+resisten Rs10197.45
+voltaje en la r 1k0.45
+resisten Rs10193.41
+voltaje en la r 1k0.45
+resisten Rs10197.85
+voltaje en la r 1k0.45
+resisten Rs10203.95
+voltaje en la r 1k0.45
+resisten Rs10197.63
+voltaje en la r 1k0.45
+resisten Rs10209.83
+voltaje en la r 1k0.45
+resisten Rs10209.37
+voltaje en la r 1k0.45
+resisten Rs10217.30
+voltaje en la r 1k0.45
+resisten Rs10220.00
+voltaje en la r 1k0.45
+resisten Rs10227.36
+voltaje en la r 1k0.45
+resisten Rs10213.77
+voltaje en la r 1k0.45
+resisten Rs10231.02
+voltaje en la r 1k0.44
+resisten Rs10239.93
+voltaje en la r 1k0.45
+resisten Rs10234.38
+voltaje en la r 1k0.44
+resisten Rs10242.50
+voltaje en la r 1k0.44
+resisten Rs10242.16
+voltaje en la r 1k0.45
+resisten Rs10213.52
+voltaje en la r 1k0.45
+resisten Rs10213.00
+voltaje en la r 1k0.45
+resisten Rs10207.50
+voltaje en la r 1k0.45
+resisten Rs10221.73
+voltaje en la r 1k0.44
+resisten Rs10239.47
+voltaje en la r 1k0.44
+resisten Rs10250.81
+voltaje en la r 1k0.44
+resisten Rs10250.65
+voltaje en la r 1k0.44
+resisten Rs10242.53
+voltaje en la r 1k0.45
+resisten Rs10233.52
+voltaje en la r 1k0.44
+resisten Rs10236.88
+voltaje en la r 1k0.45
+resisten Rs10227.60
+voltaje en la r 1k0.44
+resisten Rs10242.03
+voltaje en la r 1k0.44
+resisten Rs10237.62
+voltaje en la r 1k0.44
+resisten Rs10239.44
+voltaje en la r 1k0.44
+resisten Rs10237.77
+voltaje en la r 1k0.44
+resisten Rs10238.79
+voltaje en la r 1k0.45
+resisten Rs10234.01
+voltaje en la r 1k0.44
+resisten Rs10238.24
+voltaje en la r 1k0.44
+resisten Rs10249.29
+voltaje en la r 1k0.44
+resisten Rs10254.43
+voltaje en la r 1k0.44
+resisten Rs10252.42
+voltaje en la r 1k0.44
+resisten Rs10253.16
+voltaje en la r 1k0.44
+resisten Rs10251.67
+voltaje en la r 1k0.44
+resisten Rs10242.13
+voltaje en la r 1k0.44
+resisten Rs10249.91
+voltaje en la r 1k0.44
+resisten Rs10239.75
+voltaje en la r 1k0.44
+resisten Rs10236.20
+voltaje en la r 1k0.44
+resisten Rs10264.27
+voltaje en la r 1k0.44
+resisten Rs10257.96
+voltaje en la r 1k0.45
+resisten Rs10201.89
+voltaje en la r 1k0.45
+resisten Rs10069.80
+voltaje en la r 1k0.45
+resisten Rs10000.32
+voltaje en la r 1k0.45
+resisten Rs10027.43
+voltaje en la r 1k0.45
+resisten Rs10073.84
+voltaje en la r 1k0.45
+resisten Rs10100.51
+voltaje en la r 1k0.45
+resisten Rs10110.42
+voltaje en la r 1k0.45
+resisten Rs10113.89
+voltaje en la r 1k0.45
+resisten Rs10112.44
+voltaje en la r 1k0.45
+resisten Rs10120.41
+voltaje en la r 1k0.45
+resisten Rs10133.71
+voltaje en la r 1k0.45
+resisten Rs10141.99
+voltaje en la r 1k0.45
+resisten Rs10119.47
+voltaje en la r 1k0.45
+resisten Rs10082.90
+voltaje en la r 1k0.45
+resisten Rs10093.89
+voltaje en la r 1k0.45
+resisten Rs10108.07
+voltaje en la r 1k0.46
+resisten Rs9949.48
+voltaje en la r 1k0.46
+resisten Rs9830.12
+voltaje en la r 1k0.46
+resisten Rs9811.24
+voltaje en la r 1k0.47
+resisten Rs9725.17
+voltaje en la r 1k0.47
+resisten Rs9692.34
+voltaje en la r 1k0.47
+resisten Rs9739.04
+voltaje en la r 1k0.47
+resisten Rs9701.95
+voltaje en la r 1k0.47
+resisten Rs9673.08
+voltaje en la r 1k0.47
+resisten Rs9642.53
+voltaje en la r 1k0.48
+resisten Rs9508.89
+voltaje en la r 1k0.48
+resisten Rs9453.40
+voltaje en la r 1k0.48
+resisten Rs9354.12
+voltaje en la r 1k0.49
+resisten Rs9238.46
+voltaje en la r 1k0.49
+resisten Rs9228.66
+voltaje en la r 1k0.49
+resisten Rs9158.88
+voltaje en la r 1k0.50
+resisten Rs9093.74
+voltaje en la r 1k0.50
+resisten Rs9032.42
+voltaje en la r 1k0.50
+resisten Rs8919.73
+voltaje en la r 1k0.50
+resisten Rs8952.76
+voltaje en la r 1k0.50
+resisten Rs8986.71
+voltaje en la r 1k0.50
+resisten Rs8984.71
+voltaje en la r 1k0.50
+resisten Rs9061.02
+voltaje en la r 1k0.49
+resisten Rs9142.88
+voltaje en la r 1k0.49
+resisten Rs9196.36
+voltaje en la r 1k0.49
+resisten Rs9215.11
+voltaje en la r 1k0.49
+resisten Rs9232.44
+voltaje en la r 1k0.49
+resisten Rs9257.23
+voltaje en la r 1k0.49
+resisten Rs9224.52
+voltaje en la r 1k0.49
+resisten Rs9210.29
+voltaje en la r 1k0.49
+resisten Rs9217.58
+voltaje en la r 1k0.49
+resisten Rs9217.63
+voltaje en la r 1k0.49
+resisten Rs9193.79
+voltaje en la r 1k0.49
+resisten Rs9210.98
+voltaje en la r 1k0.49
+resisten Rs9227.07
+voltaje en la r 1k0.49
+resisten Rs9229.35
+voltaje en la r 1k0.49
+resisten Rs9226.72
+voltaje en la r 1k0.49
+resisten Rs9173.65
+voltaje en la r 1k0.50
+resisten Rs9067.58
+voltaje en la r 1k0.50
+resisten Rs9054.15
+voltaje en la r 1k0.51
+resisten Rs8883.02
+voltaje en la r 1k0.51
+resisten Rs8805.52
+voltaje en la r 1k0.51
+resisten Rs8767.99
+voltaje en la r 1k0.51
+resisten Rs8731.96
+voltaje en la r 1k0.51
+resisten Rs8748.48
+voltaje en la r 1k0.51
+resisten Rs8811.34
+voltaje en la r 1k0.51
+resisten Rs8898.88
+voltaje en la r 1k0.50
+resisten Rs9004.89
+voltaje en la r 1k0.50
+resisten Rs9090.98
+voltaje en la r 1k0.49
+resisten Rs9161.78
+voltaje en la r 1k0.49
+resisten Rs9207.87
+voltaje en la r 1k0.49
+resisten Rs9232.21
+voltaje en la r 1k0.49
+resisten Rs9264.87
+voltaje en la r 1k0.49
+resisten Rs9227.84
+voltaje en la r 1k0.49
+resisten Rs9160.80
+voltaje en la r 1k0.49
+resisten Rs9106.97
+voltaje en la r 1k0.49
+resisten Rs9121.96
+voltaje en la r 1k0.49
+resisten Rs9202.10
+voltaje en la r 1k0.49
+resisten Rs9222.86
+voltaje en la r 1k0.49
+resisten Rs9250.84
+voltaje en la r 1k0.49
+resisten Rs9299.91
+voltaje en la r 1k0.48
+resisten Rs9350.88
+voltaje en la r 1k0.48
+resisten Rs9309.72
+voltaje en la r 1k0.48
+resisten Rs9378.43
+voltaje en la r 1k0.48
+resisten Rs9442.09
+voltaje en la r 1k0.48
+resisten Rs9483.32
+voltaje en la r 1k0.48
+resisten Rs9518.07
+voltaje en la r 1k0.49
+resisten Rs9248.86
+voltaje en la r 1k0.49
+resisten Rs9223.01
+voltaje en la r 1k0.49
+resisten Rs9259.52
+voltaje en la r 1k0.49
+resisten Rs9273.91
+voltaje en la r 1k0.49
+resisten Rs9235.54
+voltaje en la r 1k0.49
+resisten Rs9234.90
+voltaje en la r 1k0.49
+resisten Rs9237.05
+voltaje en la r 1k0.49
+resisten Rs9221.61
+voltaje en la r 1k0.49
+resisten Rs9202.99
+voltaje en la r 1k0.49
+resisten Rs9220.64
+voltaje en la r 1k0.49
+resisten Rs9180.58
+voltaje en la r 1k0.49
+resisten Rs9192.37
+voltaje en la r 1k0.49
+resisten Rs9220.03
+voltaje en la r 1k0.49
+resisten Rs9216.87
+voltaje en la r 1k0.49
+resisten Rs9195.64
+voltaje en la r 1k0.49
+resisten Rs9220.82
+voltaje en la r 1k0.49
+resisten Rs9235.51
+voltaje en la r 1k0.49
+resisten Rs9263.15
+voltaje en la r 1k0.49
+resisten Rs9280.72
+voltaje en la r 1k0.48
+resisten Rs9320.66
+voltaje en la r 1k0.49
+resisten Rs9212.74
+voltaje en la r 1k0.49
+resisten Rs9230.24
+voltaje en la r 1k0.49
+resisten Rs9210.57
+voltaje en la r 1k0.49
+resisten Rs9133.99
+voltaje en la r 1k0.49
+resisten Rs9202.45
+voltaje en la r 1k0.49
+resisten Rs9120.09
+voltaje en la r 1k0.50
+resisten Rs8983.69
+voltaje en la r 1k0.50
+resisten Rs9074.09
+voltaje en la r 1k0.50
+resisten Rs8942.32
+voltaje en la r 1k0.51
+resisten Rs8825.45
+voltaje en la r 1k0.51
+resisten Rs8833.83
+voltaje en la r 1k0.51
+resisten Rs8819.89
+voltaje en la r 1k0.51
+resisten Rs8746.27
+voltaje en la r 1k0.51
+resisten Rs8762.73
+voltaje en la r 1k0.52
+resisten Rs8635.37
+voltaje en la r 1k0.52
+resisten Rs8692.26
+voltaje en la r 1k0.51
+resisten Rs8760.70
+voltaje en la r 1k0.51
+resisten Rs8788.78
+voltaje en la r 1k0.51
+resisten Rs8834.68
+voltaje en la r 1k0.50
+resisten Rs8945.99
+voltaje en la r 1k0.50
+resisten Rs9004.57
+voltaje en la r 1k0.49
+resisten Rs9111.01
+voltaje en la r 1k0.49
+resisten Rs9188.39
+voltaje en la r 1k0.49
+resisten Rs9214.54
+voltaje en la r 1k0.49
+resisten Rs9241.32
+voltaje en la r 1k0.49
+resisten Rs9269.35
+voltaje en la r 1k0.49
+resisten Rs9239.46
+voltaje en la r 1k0.49
+resisten Rs9233.13
+voltaje en la r 1k0.49
+resisten Rs9272.98
+voltaje en la r 1k0.49
+resisten Rs9265.31
+voltaje en la r 1k0.48
+resisten Rs9317.15
+voltaje en la r 1k0.48
+resisten Rs9362.69
+voltaje en la r 1k0.49
+resisten Rs9277.73
+voltaje en la r 1k0.49
+resisten Rs9228.76
+voltaje en la r 1k0.49
+resisten Rs9197.22
+voltaje en la r 1k0.49
+resisten Rs9235.97
+voltaje en la r 1k0.49
+resisten Rs9166.55
+voltaje en la r 1k0.49
+resisten Rs9173.20
+voltaje en la r 1k0.49
+resisten Rs9192.55
+voltaje en la r 1k0.49
+resisten Rs9170.87
+voltaje en la r 1k0.49
+resisten Rs9217.60
+voltaje en la r 1k0.49
+resisten Rs9212.13
+voltaje en la r 1k0.49
+resisten Rs9216.15
+voltaje en la r 1k0.49
+resisten Rs9265.44
+voltaje en la r 1k0.49
+resisten Rs9293.10
+voltaje en la r 1k0.49
+resisten Rs9277.32
+voltaje en la r 1k0.48
+resisten Rs9332.96
+voltaje en la r 1k0.48
+resisten Rs9374.70
+voltaje en la r 1k0.48
+resisten Rs9334.03
+voltaje en la r 1k0.48
+resisten Rs9359.81
+voltaje en la r 1k0.48
+resisten Rs9353.10
+voltaje en la r 1k0.48
+resisten Rs9390.70
+voltaje en la r 1k0.48
+resisten Rs9460.29
+voltaje en la r 1k0.48
+resisten Rs9476.78
+voltaje en la r 1k0.47
+resisten Rs9532.00
+voltaje en la r 1k0.47
+resisten Rs9593.57
+voltaje en la r 1k0.47
+resisten Rs9630.01
+voltaje en la r 1k0.47
+resisten Rs9656.21
+voltaje en la r 1k0.47
+resisten Rs9679.12
+voltaje en la r 1k0.47
+resisten Rs9571.08
+voltaje en la r 1k0.48
+resisten Rs9506.89
+voltaje en la r 1k0.47
+resisten Rs9542.66
+voltaje en la r 1k0.47
+resisten Rs9575.45
+voltaje en la r 1k0.47
+resisten Rs9613.67
+voltaje en la r 1k0.47
+resisten Rs9645.46
+voltaje en la r 1k0.47
+resisten Rs9573.97
+voltaje en la r 1k0.47
+resisten Rs9595.65
+voltaje en la r 1k0.47
+resisten Rs9627.44
+voltaje en la r 1k0.47
+resisten Rs9649.01
+voltaje en la r 1k0.47
+resisten Rs9654.94
+voltaje en la r 1k0.47
+resisten Rs9684.97
+voltaje en la r 1k0.47
+resisten Rs9737.77
+voltaje en la r 1k0.46
+resisten Rs9794.93
+voltaje en la r 1k0.46
+resisten Rs9840.50
+voltaje en la r 1k0.46
+resisten Rs9863.45
+voltaje en la r 1k0.46
+resisten Rs9911.54
+voltaje en la r 1k0.46
+resisten Rs9961.74
+voltaje en la r 1k0.45
+resisten Rs9999.85
+voltaje en la r 1k0.45
+resisten Rs10037.78
+voltaje en la r 1k0.45
+resisten Rs10062.26
+voltaje en la r 1k0.45
+resisten Rs10085.81
+voltaje en la r 1k0.45
+resisten Rs10105.23
+voltaje en la r 1k0.45
+resisten Rs10114.31
+voltaje en la r 1k0.45
+resisten Rs10116.03
+voltaje en la r 1k0.45
+resisten Rs10129.96
+voltaje en la r 1k0.45
+resisten Rs10134.29
+voltaje en la r 1k0.45
+resisten Rs10150.18
+voltaje en la r 1k0.45
+resisten Rs10157.99
+voltaje en la r 1k0.45
+resisten Rs10173.64
+voltaje en la r 1k0.45
+resisten Rs10189.12
+voltaje en la r 1k0.45
+resisten Rs10198.15
+voltaje en la r 1k0.45
+resisten Rs10203.55
+voltaje en la r 1k0.45
+resisten Rs10217.36
+voltaje en la r 1k0.45
+resisten Rs10230.10
+voltaje en la r 1k0.44
+resisten Rs10245.89
+voltaje en la r 1k0.44
+resisten Rs10250.68
+voltaje en la r 1k0.45
+resisten Rs10208.92
+voltaje en la r 1k0.45
+resisten Rs10203.24
+voltaje en la r 1k0.45
+resisten Rs10204.34
+voltaje en la r 1k0.45
+resisten Rs10213.89
+voltaje en la r 1k0.45
+resisten Rs10230.47
+voltaje en la r 1k0.45
+resisten Rs10214.66
+voltaje en la r 1k0.45
+resisten Rs10217.82
+voltaje en la r 1k0.45
+resisten Rs10203.61
+voltaje en la r 1k0.45
+resisten Rs10194.39
+voltaje en la r 1k0.45
+resisten Rs10222.83
+voltaje en la r 1k0.45
+resisten Rs10226.28
+voltaje en la r 1k0.45
+resisten Rs10235.18
+voltaje en la r 1k0.45
+resisten Rs10232.87
